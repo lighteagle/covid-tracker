@@ -2,7 +2,11 @@ import React from "react";
 import "./App.css";
 
 function App() {
-  return <div>COVID-19 Tracker</div>;
+  return (
+    <div>
+      <h1>COVID-19 Tracker</h1>
+    </div>
+  );
 }
 
 export default App;
